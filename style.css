@@ -1,13 +1,15 @@
 html {
   height: 100%;
   width: 100%;
-  background-color: pink;
+  background-color: #EDEBD7;
 }
 
 h1 {
   text-align: center;
+  color: #423E37;
 }
 
 .personal-quote {
-  color: purple;
+  color: #43320A;
+  text-align: center;
 }
